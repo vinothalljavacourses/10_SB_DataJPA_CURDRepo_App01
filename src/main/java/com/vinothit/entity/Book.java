@@ -9,9 +9,9 @@ import javax.persistence.Id;
 public class Book {
 
 	@Id
-	private Integer BookId;
-	private String BookName;
-	private Double BookPrice;
+	private Integer bookId;
+	private String bookName;
+	private Double bookPrice;
 	
 	
 	
